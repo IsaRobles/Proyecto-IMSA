@@ -1,6 +1,6 @@
 <?php
   $destino="robles92.fce@gmail.com";
-  $asunto="comentario";
+  $asunto="INFORMACION IMSA";
   $nombre=$_POST['nombre'];
   $comentario="
     Nombre:$_POST[nombre]
